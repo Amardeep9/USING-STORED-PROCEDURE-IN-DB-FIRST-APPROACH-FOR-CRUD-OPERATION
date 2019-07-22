@@ -11,3 +11,6 @@ Referece--  https://www.youtube.com/watch?v=UpnJAMCryKE     part1
 
 https://www.entityframeworktutorial.net/stored-procedure-in-entity-framework.aspx
 https://www.entityframeworktutorial.net/EntityFramework5/CRUD-using-stored-procedures.aspx
+
+
+https://www.youtube.com/watch?v=whla96PoQo0&t=930s   important
